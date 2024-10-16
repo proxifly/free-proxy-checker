@@ -15,7 +15,7 @@
   <strong>Free Proxy Checker</strong> Free HTTP, SOCKS4, SOCKS5 proxy checker software with dozens of sources.
 </p>
 
-# 🦄 Free Proxy Checker
+# 🧪 Free Proxy Checker
 ## 💻 Installation
 ### Direct link
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://proxifly.dev/download?download=windows)
